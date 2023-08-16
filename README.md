@@ -19,7 +19,7 @@ The torch-radon package (pip install torch-radon) is necessary for sparse-view C
 3.1、Pre-trained models:  
 All pre-trained models for our paper are in './model and result fan CT HU'.  
 3.2、Prepare test data:  
-Due to upload file size limitation, we are unable to upload training data directly. Here we provide a [link](https://pan.baidu.com/s/1baOAEXmHZdsulsCKKgNbsg?pwd=io4f) to download the datasets for you. 
+Due to upload file size limitation, we are unable to upload training data directly. Here we provide a [link](https://pan.baidu.com/s/1baOAEXmHZdsulsCKKgNbsg?pwd=io4f) to download the datasets for you.   
 3.3、Prepare code:  
 Open './Core_CT-proposed-MVMS_RCN.py' and change the default run_mode to test in parser (parser.add_argument('--run_mode', type=str, default='test', help='train or test')).  
 3.4、Run the test script (Core_CT-proposed-MVMS_RCN.py).  
