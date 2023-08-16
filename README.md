@@ -11,7 +11,8 @@ pytorch <= 1.7.1 (recommend 1.6.0, 1.7.1)
 scikit-image <= 0.16.2 (recommend 0.16.1, 0.16.2)
 torch-radon = 1.0.0 (for sparse-view CT)
 ```
-
+### Prepare data
+Due to upload file size limitation, we are unable to upload training data directly. Here we provide a [link](https://pan.baidu.com/s/1baOAEXmHZdsulsCKKgNbsg?pwd=io4f) to download the datasets for you. 
 
 
 ### Citation  
