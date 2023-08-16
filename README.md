@@ -49,7 +49,7 @@ If you find the code helpful in your resarch or work, please cite the following 
 ```
 
 ### Acknowledgements  
-Thanks to the authors of FISTA-Net, our codes are adapted from the open source codes of them.   
+Thanks to the authors of ISTA-Net and FISTA-Net, our codes are adapted from the open source codes of them.   
 
 ### Contact  
 The code is provided to support reproducible research. If the code is giving syntax error in your particular python configuration or some files are missing then you may open an issue or directly email me at fanxiaohong@smail.xtu.edu.cn
