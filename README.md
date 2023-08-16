@@ -3,7 +3,7 @@
 This repository contains sparse-view CT reconstruction pytorch codes for the following paper：  
 Xiaohong Fan, Yin Yang, Ke Chen, Huaming Yi, and Jianping Zhang*, “MVMS-RCN: A Deep Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, 2023.  Under review.
 
-These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and Nvidia Tesla V100 GPU.
+These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and NVIDIA GeForce GTX 1080Ti GPU.
 
 ### Environment  
 ```
