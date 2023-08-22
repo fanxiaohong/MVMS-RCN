@@ -12,7 +12,7 @@ from solver_CT_together_fan import Solver_CT
 # parameter
 parser = ArgumentParser(description='CT-new-Nest-DGIL')
 parser.add_argument('--net_name', type=str, default='CT-Nest-DGIL-fan-ds64', help='name of net')
-parser.add_argument('--model_dir', type=str, default='model_CT', help='model_MRI,model_CT,trained or pre-trained model directory')
+parser.add_argument('--model_dir', type=str, default='model and result fan CT HU', help='model_MRI,model_CT,trained or pre-trained model directory')
 parser.add_argument('--log_dir', type=str, default='log_CT', help='log_MRI,log_CT')
 parser.add_argument('--start_epoch', type=int, default=0, help='epoch number of start training')
 parser.add_argument('--end_epoch', type=int, default=50, help='epoch number of end training')
