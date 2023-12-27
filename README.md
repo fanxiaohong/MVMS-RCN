@@ -37,7 +37,7 @@ Open './Core_CT-proposed-MVMS_RCN.py' and change the default run_mode to train i
 If you find the code helpful in your resarch or work, please cite the following papers. 
 ```
 @Article{Fan2023,
-  author  = {Xiaohong Fan and Yin Yang and Ke Chen and Huaming Yi and Jianping Zhang},
+  author  = {Yin Yang and Xiaohong Fan and Ke Chen and Huaming Yi and Jianping Zhang},
   journal = {},
   title   = {MVMS-RCN: A Deep Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction},
   year    = {2023},
