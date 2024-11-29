@@ -1,9 +1,9 @@
-# MVMS-RCN: A Dual-Domain Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction
+# MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction
 
 This repository contains sparse-view CT reconstruction pytorch codes for the following paper：  
-Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, IEEE Transactions on Computational Imaging, 2024. Accept.
+Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, IEEE Transactions on Computational Imaging, 2024. DOI: 10.1109/TCI.2024.3507645.
 
-Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, arXiv, May 2024. [[pdf]](https://arxiv.org/pdf/2405.17141) 
+Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, arXiv, May 2024. [[pdf]](https://arxiv.org/pdf/2405.17141) 
 
 These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon Silver 4214 CPU and Tesla V100-PCIE-32GB GPU.
 
@@ -40,13 +40,13 @@ If you find the code helpful in your resarch or work, please cite the following 
 ```
 @Article{Fan2023,
   author  = {Xiaohong Fan and Ke Chen and Huaming Yi and Yin Yang and Jianping Zhang},
-  journal = {},
-  title   = {MVMS-RCN: A Dual-Domain Unfolding CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction},
+  journal = {IEEE Transactions on Computational Imaging},
+  title   = {MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction},
   year    = {2024},
   month   = {},
   pages   = {},
   volume  = {},
-  doi     = {},
+  doi     = {10.1109/TCI.2024.3507645},
 }
 ```
 
