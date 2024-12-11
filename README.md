@@ -38,7 +38,7 @@ Open './Core_CT-proposed-MVMS_RCN.py' and change the default run_mode to train i
 ### Citation  
 If you find the code helpful in your resarch or work, please cite the following papers. 
 ```
-@Article{Fan2023,
+@Article{Fan2024,
   author  = {Xiaohong Fan and Ke Chen and Huaming Yi and Yin Yang and Jianping Zhang},
   journal = {IEEE Transactions on Computational Imaging},
   title   = {MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction},
