@@ -7,6 +7,12 @@ Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: 
 
 These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon Silver 4214 CPU and Tesla V100-PCIE-32GB GPU.
 
+### Abstract
+X-ray Computed Tomography (CT) is one of the most important diagnostic imaging techniques in clinical applications. Sparse-view CT imaging reduces the number of projection views to a lower radiation dose and alleviates the potential risk of radiation exposure. Most existing deep learning (DL) and deep unfolding sparse-view CT reconstruction methods: 1) do not fully use the projection data; 2) do not always link their architecture designs to a mathematical theory; 3) do not flexibly deal with multi-sparse-view reconstruction assignments. This paper aims to use mathematical ideas and design optimal DL imaging algorithms for sparse-view CT reconstructions. We propose a novel dual-domain unified framework that offers a great deal of flexibility for multi-sparse-view CT reconstruction through a single model. This framework combines the theoretical advantages of model-based methods with the superior reconstruction performance of DL-based methods, resulting in the expected generalizability of DL. We propose a refinement module that utilizes unfolding projection domain to refine full-sparse-view projection errors, as well as an image domain correction module that distills multi-scale geometric error corrections to reconstruct sparse-view CT. This provides us with a new way to explore the potential of projection information and a new perspective on designing network architectures. The multi-scale geometric correction module is end-to-end learnable, and our method could function as a plug-and-play reconstruction technique, adaptable to various applications. Extensive experiments demonstrate that our framework is superior to other existing state-of-the-art methods.
+
+[ChartFlow.pdf](https://github.com/user-attachments/files/18089033/ChartFlow.pdf)
+Fig. 1. The overall architecture of the proposed unified dual-domain multisparse-view CT reconstruction framework (MVMS-RCN). It consists of multiview projection refinement module R and multi-scale geometric correction module D.
+
 ### Environment  
 ```
 pytorch = 1.7.1 (recommend 1.6.0, 1.7.1)
