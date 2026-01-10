@@ -1,7 +1,7 @@
 # MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction
 
 This repository contains sparse-view CT reconstruction pytorch codes for the following paper：  
-Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, IEEE Transactions on Computational Imaging, 2024,10:1749-1762. DOI: 10.1109/TCI.2024.3507645. [[pdf]](https://ieeexplore.ieee.org/document/11321053) 
+Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, IEEE Transactions on Computational Imaging, 2024,10:1749-1762. DOI: 10.1109/TCI.2024.3507645. [[pdf]](https://ieeexplore.ieee.org/document/10769006/) 
 
 Xiaohong Fan, Ke Chen, Huaming Yi, Yin Yang*, and Jianping Zhang*, “MVMS-RCN: A Dual-Domain Unified CT Reconstruction with Multi-sparse-view and Multi-scale Refinement-correction”, arXiv, May 2024. [[pdf]](https://arxiv.org/pdf/2405.17141) 
 
